@@ -1,1 +1,2 @@
-# banco-de-dados
+# Banco-de-Dados
+Iremos ver os fundamentos e após faremos um exercício com sqlite.
